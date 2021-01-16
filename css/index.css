@@ -51,7 +51,7 @@ border-bottom-right-radius:15px;
 border-top-right-radius:15px;
 }
 #i{
-  border:80px solid #00000000;
+  border:100px solid #00000000;
 }
 }
 @media only screen and (min-width: 1001px) {
@@ -109,6 +109,6 @@ border:20px solid #00000000;
   display:table;
 }
   #i{
-  border:80px solid #00000000;
+  border:100px solid #00000000;
 }
 }
